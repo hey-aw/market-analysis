@@ -1,0 +1,44 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.209.6/containers/python-3
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
+// https://github.com/microsoft/vscode-dev-containers/tree/v0.209.6/containers/python-3
+{
+  "image": "mcr.microsoft.com/devcontainers/python:0-3.11-bullseye",
+  "customizations": {
+    "codespaces": {
+      "openFiles": [
+        "README.md",
+        "Welcome.py"
+      ]
+    },
+    "vscode": {
+      "settings": {},
+      "extensions": [
+        "ms-python.python",
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+          "ms-python.vscode-pylance"
+      ]
+    }
+  },
+  // Use 'forwardPorts' to make a list of ports inside the container available locally.
+  "forwardPorts": [
+    8501
+  ],
+  // Use 'postCreateCommand' to run commands after the container is created.
+  // Install app dependencies.
+  "postCreateCommand": "poetry install",
+  // Use 'postAttachCommand' to run commands after a tool has attached to the container.
+  // Start the app.
+  // "postAttachCommand": "poetry run streamlit run Welcome.py",  
+  "portsAttributes": {
+    "8501": {
+      "label": "Application",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "remoteUser": "vscode",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/poetry:2": {}
+  }
+}
