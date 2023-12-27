@@ -1,25 +1,21 @@
 [tool.poetry]
-name = "thing-doer"
+name = "market-analysis"
 version = "0.1.0"
 description = ""
-authors = ["Matt AW <aw@eddo.ai>"]
-license = "Apache 2.0"
+authors = ["Your Name <you@example.com>"]
 readme = "README.md"
-packages = []
 
 [tool.poetry.dependencies]
-python = "^3.11 || 3.11.4"
-langchain = "^0.0.263"
-openai = "^0.27.8"
-streamlit-extras = "^0.3.0"
-langsmith = "^0.0.20"
-streamlit = "^1.25.0"
+python = "^3.11"
+streamlit = "^1.29.0"
+langchain = "^0.0.350"
+openai = "^1.5.0"
+docx2txt = "^0.8"
 
 
 [tool.poetry.group.dev.dependencies]
-black = "^23.3.0"
-mypy = "^1.4.1"
-pre-commit = "^3.3.3"
+jupyter = "^1.0.0"
+notebook = "^7.0.6"
 
 [build-system]
 requires = ["poetry-core"]

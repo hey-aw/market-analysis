@@ -1,0 +1,63 @@
+{
+    "name": "add_transcript_with_annotations",
+    "description": "Adds a complete transcript record along with its annotations to the database.",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "interviewee_name": {
+                "type": "string",
+                "description": "The name of the interviewee."
+            },
+            "interviewee_role": {
+                "type": "string",
+                "description": "The role of the interviewee (e.g., Teacher, Administrator)."
+            },
+            "interviewee_institution": {
+                "type": "string",
+                "description": "The institution or organization the interviewee is affiliated with."
+            },
+            "date_of_interview": {
+                "type": "string",
+                "description": "The date when the interview was conducted."
+            },
+            "other_metadata": {
+                "type": "object",
+                "description": "Any other relevant metadata about the transcript."
+            },
+            "annotations": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "text_segment": {
+                            "type": "string",
+                            "description": "The specific segment of text being annotated."
+                        },
+                        "themes": {
+                            "type": "array",
+                            "items": {
+                                "type": "string",
+                                "description": "The theme(s) identified in this segment, such as: Brand Perception, Product Quality, Customer Service, Purchasing Experience, Digital Resources, Environmental Sustainability, Educational Policies, Customer Experience, Buying Habits, Purchasing Patterns, Vendor Comparison, Budget and Timing, Generational Insights"
+                            }
+                        },
+                        "brands": {
+                            "type": "array",
+                            "items": {
+                                "type": "string",
+                                "description": "The brand(s) identified in this segment, such as: Carolina, Flinn, or Amazon."
+                            }
+                        },
+                        "time_code": {
+                            "type": "string",
+                            "description": "The time code in the transcript for this text segment."
+                        }
+                    }
+                },
+                "description": "An array of annotation objects associated with the transcript."
+            }
+        },
+        "required": [
+            "interviewee_name"
+        ]
+    }
+}
