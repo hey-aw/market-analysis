@@ -1,29 +1,35 @@
-email,text_segment,context,theme,brand,time_stamp
-mburdsall@danville.k12.in.us,"I was in the department head for 15 years, so I was responsible for all ordering for our, oh gosh. We had about $25,000 budget. That included chemistry and physics as well. But my life science with dissections, those kinds of materials, live materials, we took up a good chunk of that budget.","Daylene Long (06:54):
-
-You had 25,000 a year for your materials?
-
-mike (06:58):
-
-We did. Now that's changed because the students don't no longer pay. There's no fees anymore. The state of Indiana took those away, so I don't know how much she currently has. I don't think he changed the budget for her at all. So there's still, yeah, by the time you get dissection materials, the students were charged a fee, so my anatomy students had a bigger fee. My college students had a bigger fee.","['Budget and Timing', 'Educational Policies']",[],06:54
-mburdsall@danville.k12.in.us,"I got together with Flynn and they gave us our school corporation, a 10% discount and free shipping. And we went up with the contract with them, and we spent most of our money there. They didn't have a couple of the specimens and some of the live stuff that I used, but once that happened and some of the other companies kind of switching a little bit, that was a big thing. Free shipping on some of those things. Free shipping on 50 pigs is quite a nice break.","Daylene Long (14:15):
-
-Okay. Well that's pretty good. So you liked the free shipping, you liked the discount. Did Flynn offer you any other kind of perks around that that were important to you?
-
-mike (15:52):
-
-No, that was it. Tell they were pretty good at getting things out too. So if we needed something quickly, we could pay extra, get it shipped, but their website was good, I could get on there and find things pretty easily and then I could just put in a PO number, actually made up number. My treasure just had me put the date and my name and everything worked out really well at doing that.","['Purchasing Experience', 'Vendor Comparison', 'Customer Experience']",['Flinn Scientific'],14:15
-mburdsall@danville.k12.in.us,I did live frogs. I had to go through Carolina to get the live frogs to use and every once in a while I would get some other live materials and usually Carolina would be who I went through for my live stuff.,"Daylene Long (18:15):
-
-Okay. What did you like about Carolina for the live stuff?
-
-mike (18:32):
-
-Well, they had it so there was more than one time where they screwed up the dates of stuff. And this last, so I had frog come in at the wrong time and you can't ship them back. So I just scrambled and did, I mean, it was like, okay, we're not ready for these, but we're going to do 'em anyway.","['Product Quality', 'Customer Service', 'Vendor Comparison']",['Carolina Biological'],18:15
-mburdsall@danville.k12.in.us,"I think it's either last year or the last two years, but not before that.","Daylene Long (37:26):
-
-Okay. That's pretty consistent with what I'm hearing from other people too. Let me just flip through. Are there any conferences or social media accounts or anything like that where you connect with other teachers or hear about new products and services?
-
-mike (38:10):
-
-Yeah, well not been to a national convention, but here they're really good National Association of Biology teachers for our state biology teachers association. I was an officer for three years and we do, so we have a Hoosier of science teachers and they have, in February we have our, it's a couple day conference. I presented four or five times at that. And then we have within that are the individuals. So the chemistry teachers have their own little thing during that time. It's not big enough to have just the chemistry or bio or astronomy. Definitely. We're a small group and that happens every year. And then honestly our school keeps trying to force PLCs on everybody and I was the only one that taught all my classes. Well, I found Facebook groups were my best. I mean if I needed something. And in my last, well last couple years of human anatomy, I was still finding new things to do an ad because of that group.","['Digital Resources', 'Buying Habits']",['Amazon'],37:26
+,speaker,theme,context,sentiment_score,brand,identified_purchases,start_time,end_time,email,last_name,first_name
+0,mike,Customer Experience,"Mike encountered a problem with the camera on his laptop, but it was resolved with help.",0.3,,[],00:41,02:11,mburdsall@danville.k12.in.us,Burdsall,Mike
+1,Daylene Long,Purchasing Experience,"Daylene provides an overview of their interview purpose, focusing on understanding educators' buying processes.",0.1,,[],02:58,06:07,mburdsall@danville.k12.in.us,Burdsall,Mike
+2,mike,Budget and Timing,Mike mentions the budget for science materials and changes due to state policies.,0.0,,[],06:26,07:36,mburdsall@danville.k12.in.us,Burdsall,Mike
+3,Daylene Long,Educational Policies,Daylene is surprised to learn about the previous practice of students paying lab fees in a public high school.,0.0,,[],07:41,07:52,mburdsall@danville.k12.in.us,Burdsall,Mike
+4,mike,Educational Policies,Mike describes his role in dual credit classes and the courses offered at his school.,0.1,,[],08:01,09:18,mburdsall@danville.k12.in.us,Burdsall,Mike
+5,mike,Budget and Timing,"Schools have a specific budget to spend on materials within a certain timeframe, often needing to spend all funds by the end of October for accounting purposes.",0.1,,[],10:02,11:31,mburdsall@danville.k12.in.us,Burdsall,Mike
+6,mike,Product Quality,Finding the right company for dissection materials is important as they vary in quality.,0.2,,[],11:31,11:51,mburdsall@danville.k12.in.us,Burdsall,Mike
+7,mike,Vendor Comparison,Flinn offered a discount and free shipping which made them a preferred vendor despite not having all the specimens required.,0.3,,[],12:51,15:13,mburdsall@danville.k12.in.us,Burdsall,Mike
+8,mike,Customer Service,"Flinn's website was user-friendly and they were efficient in shipping products, with the option for expedited shipping if necessary.",0.3,,[],15:52,17:01,mburdsall@danville.k12.in.us,Burdsall,Mike
+9,mike,Carolina Purchases,Live specimens like frogs were often purchased from Carolina Biological due to their availability.,0.1,,[],17:58,18:15,mburdsall@danville.k12.in.us,Burdsall,Mike
+10,mike,Customer Experience,"Carolina sometimes shipped live specimens at incorrect times, causing inconvenience.",-0.2,,[],18:32,19:46,mburdsall@danville.k12.in.us,Burdsall,Mike
+11,mike,Customer Experience,"Mike expressed dissatisfaction with receiving live animals early from an unnamed supplier as they were not ready for them, while delays were preferred.",-0.4,,[],20:27,20:37,mburdsall@danville.k12.in.us,Burdsall,Mike
+12,mike,Customer Service,Mike mentioned poor communication from the supplier regarding a delayed shipment that took an extra month.,-0.6,,[],20:37,21:14,mburdsall@danville.k12.in.us,Burdsall,Mike
+13,mike,Purchasing Patterns,Mike routinely purchased slides and tissue samples for his anatomy class from Flinn Scientific because he deemed them essential for college preparation.,0.3,,[],21:56,22:59,mburdsall@danville.k12.in.us,Burdsall,Mike
+14,mike,Flinn Purchases,Mike purchased expensive tissue slides from Flinn for his anatomy class.,0.2,,"[ProductPurchaseDetail(product_name='tissue slides', vendor='Flinn Scientific', purchase_reason='')]",21:56,22:59,mburdsall@danville.k12.in.us,Burdsall,Mike
+15,mike,Vendor Comparison,"Mike switched to Flinn Scientific for equipment like hot plates after getting a 10% discount, even though he previously shopped around for the best price.",0.3,,[],23:31,24:03,mburdsall@danville.k12.in.us,Burdsall,Mike
+16,mike,Budget and Timing,"Mike discussed having a separate equipment fund and a consumables fund, with the latter being used for additional purchases such as hot plates.",0.2,,[],23:31,24:03,mburdsall@danville.k12.in.us,Burdsall,Mike
+17,mike,Digital Resources,"Mike used technology like electronic balances and Vernier calipers for teaching, which were often funded through grants or the school corporation.",0.3,,[],23:31,26:06,mburdsall@danville.k12.in.us,Burdsall,Mike
+18,mike,Carolina Purchases,Mike has not explicitly mentioned purchasing from Carolina Biological in the provided segment.,0.0,,[],21:56,26:06,mburdsall@danville.k12.in.us,Burdsall,Mike
+19,mike,Brand Perception,Mike had a negative experience with the quality of specimens from a dissecting company and would not use them again.,-0.7,,[],30:36,31:25,mburdsall@danville.k12.in.us,Burdsall,Mike
+20,mike,Buying Habits,Mike had a past preference for Science Kit before switching to Flinn Scientific due to a connection with a microscope technician and a discount offer.,0.1,,[],29:31,30:36,mburdsall@danville.k12.in.us,Burdsall,Mike
+21,mike,Vendor Comparison,Bio-Rad Micro Pipettes Genetics Transformation Lab is a really good lab.,0.7,Bio-Rad,"[ProductPurchaseDetail(product_name='Micro Pipettes Genetics Transformation Lab', vendor='Bio-Rad', purchase_reason='')]",31:49,32:06,mburdsall@danville.k12.in.us,Burdsall,Mike
+22,mike,Customer Experience,Science Kit gives free swag like lab coats with orders.,0.8,Science Kit,[],32:41,32:48,mburdsall@danville.k12.in.us,Burdsall,Mike
+23,mike,Customer Experience,"It doesn't take much to make teachers happy, just feed them and give them time to talk during workshops.",0.9,,[],33:07,33:30,mburdsall@danville.k12.in.us,Burdsall,Mike
+24,mike,Brand Perception,Personal connections with representatives from vendors like Flinn were important in the past.,0.6,Flinn Scientific,[],34:14,35:42,mburdsall@danville.k12.in.us,Burdsall,Mike
+25,mike,Vendor Comparison,Locked into a company for planetarium equipment because they're the only ones who can service it.,0.2,,[],36:08,36:50,mburdsall@danville.k12.in.us,Burdsall,Mike
+26,mike,Purchasing Experience,Amazon is easy to go through and they have a school account.,0.8,Amazon,[],37:02,37:34,mburdsall@danville.k12.in.us,Burdsall,Mike
+27,mike,Digital Resources,Facebook groups are useful for finding new teaching resources and ideas.,0.7,,[],38:10,39:54,mburdsall@danville.k12.in.us,Burdsall,Mike
+28,mike,Product Quality,Hands-on teaching tools like Lego DNA kits are valuable for education.,0.8,,[],40:55,42:24,mburdsall@danville.k12.in.us,Burdsall,Mike
+29,mike,Digital Resources,Mike mentions using videos from series such as the Amoeba Sisters and Crash Course as resources in his class.,0.5,,[],45:05,46:34,mburdsall@danville.k12.in.us,Burdsall,Mike
+30,mike,Brand Perception,Mike seems to have a positive perception of the Amoeba Sisters and Crash Course as educational resources.,0.5,,[],45:05,46:34,mburdsall@danville.k12.in.us,Burdsall,Mike
+31,mike,Customer Experience,"Mike expresses frustration with educators who don't keep students engaged during dissections, suggesting he values hands-on, interactive teaching methods.",-0.6,,[],46:34,48:12,mburdsall@danville.k12.in.us,Burdsall,Mike
+32,mike,Educational Policies,"Mike is against policies that prohibit dissection in education, advocating for its importance in teaching.",0.1,,[],47:06,48:12,mburdsall@danville.k12.in.us,Burdsall,Mike
+33,mike,Customer Experience,Mike indicates a willingness to teach other educators how to conduct dissections effectively.,0.3,,[],47:39,48:12,mburdsall@danville.k12.in.us,Burdsall,Mike

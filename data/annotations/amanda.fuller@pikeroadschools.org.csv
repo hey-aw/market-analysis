@@ -1,56 +1,32 @@
-email,text_segment,context,themes,brand,time_stamp
-amanda.fuller@pikeroadschools.org,"I usually order once a month, so my teachers will put into a spreadsheet for me, I'll add it to the Amazon account and I'll just let it sit there and then just click my little button and it sends it to my purchasing department. So Ease has been for Amazon, I really like that.","Daylene Long (26:25):
-
-Okay. So how would you like to know about it upfront? What would make that better for you?
-
-Amanda Fuller (27:45):
-
-Probably as I add it to the cart
-
-Daylene Long (27:48):
-
-That it tells you when you add it to the cart that it's back order. Okay. Amazon for a minute. Does your district or school then have an account with Amazon? Because you mentioned you put it in your cart and then it goes to your purchasing department.
-
-Amanda Fuller (28:06):
-
-So we have Amazon business set up, and so it's just a super convenient and method. She just sends me a PO order or a PO number that I put directly into the Amazon cart and then it just ships. So it's just super convenient.","['Purchasing Experience', 'Customer Experience', 'Buying Habits']",Amazon,26:25
-amanda.fuller@pikeroadschools.org,"I think Amazon is just an easy vendor to use, add it to my cart, let it sit there until I'm able to place the order. So I usually order once a month, so my teachers will put into a spreadsheet for me, I'll add it to the Amazon account and I'll just let it sit there and then just click my little button and it sends it to my purchasing department.","Daylene Long (26:25):
-
-Okay. So how would you like to know about it upfront? What would make that better for you?
-
-Amanda Fuller (27:45):
-
-Probably as I add it to the cart
-
-Daylene Long (27:48):
-
-That it tells you when you add it to the cart that it's back order. Okay. Amazon for a minute. Does your district or school then have an account with Amazon? Because you mentioned you put it in your cart and then it goes to your purchasing department.
-
-Amanda Fuller (28:06):
-
-So we have Amazon business set up, and so it's just a super convenient and method. She just sends me a PO order or a PO number that I put directly into the Amazon cart and then it just ships. So it's just super convenient.","['Purchasing Experience', 'Customer Experience']",Amazon,26:25
-amanda.fuller@pikeroadschools.org,"I think it's, which I guess probably answers, but Carolina or Flinn, I can't remember which one. There's currently a Backorder item, so I would like to know that ahead of time before making the purchase. So that would be kind of a negative.","Daylene Long (26:25):
-
-Okay. So how would you like to know about it upfront? What would make that better for you?
-
-Amanda Fuller (27:45):
-
-Probably as I add it to the cart
-
-Daylene Long (27:48):
-
-That it tells you when you add it to the cart that it's back order. Okay. Amazon for a minute. Does your district or school then have an account with Amazon? Because you mentioned you put it in your cart and then it goes to your purchasing department.
-
-Amanda Fuller (28:06):
-
-So we have Amazon business set up, and so it's just a super convenient and method. She just sends me a PO order or a PO number that I put directly into the Amazon cart and then it just ships. So it's just super convenient.",['Customer Experience'],Carolina or Flinn,26:25
-amanda.fuller@pikeroadschools.org,"To me. There's no differentiation between one or the other or they're, in my mind, they're the same thing. If I google this particular sheep heart and Carolina's the first one that comes up, I'll use Carolina Flinn's, the first one that comes up. I'll use Flinn. I'll compare prices, but it's the same in my head.","Daylene Long (34:04):
-
-Alright, Carolina, what are the top two words that come to mind when you think of Carolina?
-
-Amanda Fuller (34:10):
-
-Honestly, the same. To me. There's no differentiation between one or the other or they're, in my mind, they're the same thing. If I google this particular sheep heart and Carolina's the first one that comes up, I'll use Carolina Flinn's, the first one that comes up. I'll use Flinn. I'll compare prices, but it's the same in my head.","['Vendor Comparison', 'Purchasing Patterns']",Carolina and Flinn,34:04
-amanda.fuller@pikeroadschools.org,"I think one of the things when I was looking for wishlist items, I put in anatomy and physiology and just looked at their stuff. But again, was it Flinn or was it Carolina? I don't know. But the organization of these are some things that might be of interest. If you're an anatomy teacher, everybody doesn't get the luxury of saying, if I could spend any amount of money, what would I want? But that was one of the times that I used it and was just kind of like, okay, this is helpful.","Daylene Long (40:12):
-
-I don't think so. I think one of the things when I was looking for wishlist items, I put in anatomy and physiology and just looked at their stuff. But again, was it Flinn or was it Carolina? I don't know. But the organization of these are some things that might be of interest. If you're an anatomy teacher, everybody doesn't get the luxury of saying, if I could spend any amount of money, what would I want? But that was one of the times that I used it and was just kind of like, okay, this is helpful.",['Purchasing Patterns'],Carolina or Flinn,40:12
+,speaker,theme,context,sentiment_score,brand,identified_purchases,start_time,end_time,email,last_name,first_name
+0,Amanda Fuller,Vendor Comparison,"they've ordered from Flinn and Carolina before, so went with those first and Amazon",0.2,Flinn,[],15:39,15:49,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+1,Amanda Fuller,Vendor Comparison,there were a couple things that could only be purchased through specific vendors,0.0,,[],15:39,16:05,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+2,Amanda Fuller,Carolina Purchases,they've ordered from Flinn and Carolina before,0.2,Carolina,[],15:39,15:49,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+3,Amanda Fuller,Purchasing Patterns,"the first priority was cost compared prices, then what would be easiest for her",0.3,,[],15:39,16:05,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+4,Amanda Fuller,Brand Perception,ordered bulk of microscopes from microscopes.com because they had the best price,0.3,microscopes.com,[],16:09,16:52,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+5,Amanda Fuller,Purchasing Experience,had to get W9 and do the whole get them on our vendor list for a specific product,0.0,,[],16:09,16:52,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+6,Amanda Fuller,Vendor Comparison,Amanda doesn't have a preference between Flinn and Carolina when choosing vendors.,0.0,,[],17:08,17:08,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+7,Amanda Fuller,Educational Policies,"Amanda is unsure if her district has contracts with Carolina or Flinn, mentioning a new system called ClassWallet.",0.0,,[],17:14,17:48,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+8,Amanda Fuller,Purchasing Patterns,"Amanda bought dissection materials, forensic class supplies, synthetic blood, and glassware, but can't specify which vendor they came from.",0.0,,[],17:55,18:27,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+9,Amanda Fuller,Purchasing Experience,The decision between vendors was based purely on cost.,0.0,,[],18:33,18:34,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+10,Amanda Fuller,Customer Service,Amanda is not aware of any professional development offered by the vendors.,0.0,,[],18:43,18:43,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+11,Amanda Fuller,Digital Resources,Amanda's district uses external organizations for professional development regarding science labs rather than vendor-provided resources.,0.1,,[],19:23,20:25,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+12,Amanda Fuller,Customer Experience,Amanda does not have a preference for how materials are sent to her.,0.0,,[],20:56,20:58,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+13,Amanda Fuller,Digital Resources,Amanda thinks a video or simulation for lab preparation could be helpful for new teachers.,0.3,,[],23:17,23:51,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+14,Amanda Fuller,Environmental Sustainability,"There are a lot of videos blocked for students, but Amanda can unblock them as a teacher.",0.0,,[],25:15,25:27,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+15,Amanda Fuller,Customer Experience,Amanda mentions price as a top factor in her decision-making process but hasn't had particularly good or bad experiences with vendors.,0.0,,[],26:25,26:25,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+16,Amanda Fuller,Purchasing Experience,Amazon is easy to use and offers convenience for monthly ordering.,0.7,Amazon,[],26:25,26:25,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+17,Amanda Fuller,Customer Experience,"Experienced a negative issue with a backorder from either Carolina or Flinn, which was not communicated before purchase.",-0.6,Carolina,[],26:25,27:38,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+18,Amanda Fuller,Customer Service,Expresses a preference to be informed about backorders as items are added to the cart.,0.3,,[],27:38,27:48,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+19,Amanda Fuller,Purchasing Experience,Amazon Business account setup is super convenient for school purchasing.,0.8,Amazon,[],28:06,28:28,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+20,Amanda Fuller,Budget and Timing,Monthly spending on Amazon varies from $50 to $500 depending on needs.,0.2,Amazon,[],28:28,28:45,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+21,Amanda Fuller,Purchasing Patterns,Purchases random items like Miracle Berries and batteries from Amazon.,0.3,Amazon,[],29:00,29:32,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+22,Amanda Fuller,Vendor Comparison,"Would buy lab supplies like beakers from Amazon if the price is good, otherwise prefers Carolina or Flinn.",0.4,,[],29:32,29:42,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+23,Amanda Fuller,Purchasing Patterns,"For live specimens or perishable items like Cow Heart, prefers to purchase from Carolina or Flinn.",0.2,,[],29:42,29:57,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+24,Amanda Fuller,Brand Perception,Does not differentiate much between Carolina and Flinn; chooses based on price and convenience.,0.1,,[],34:02,34:10,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+25,Amanda Fuller,Customer Experience,Describes both Flinn and Carolina as convenient without a strong preference for either.,0.5,,[],34:10,34:35,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+26,Amanda Fuller,Purchasing Experience,Amanda finds using Amazon super convenient due to ease of use and quick ordering process.,0.8,Amazon,[],35:42,36:49,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+27,Amanda Fuller,Brand Perception,"Amanda expresses her love for the Audi brand, highlighting its thoughtful design and luxury feel.",1.0,Audi,[],37:18,37:44,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+28,Amanda Fuller,Customer Experience,"Amanda is unsure if she was browsing Flinn or Carolina, suggesting a need for clearer brand differentiation.",0.0,,[],40:12,40:51,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+29,Amanda Fuller,Digital Resources,"Amanda used a wishlist feature to look for anatomy and physiology items, finding it helpful.",0.6,,[],40:12,40:51,amanda.fuller@pikeroadschools.org,Fuller,Amanda
+30,Amanda Fuller,Customer Experience,Amanda acknowledges the convenience of receiving a gift card as a token of appreciation.,0.5,,[],41:36,41:43,amanda.fuller@pikeroadschools.org,Fuller,Amanda

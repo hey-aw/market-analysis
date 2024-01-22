@@ -1,87 +1,36 @@
-email,text_segment,context,theme,brand,time_stamp
-dawn.parker@rcsd.ms,"She's a Carolina loyalist, but also refers to Flynn.","Kimberly Herder (00:06):
-
-Dawn Parker. She's a science teacher from McLaurin High School in Florence, Mississippi. She's biology, and right now it looks like she's taught other science courses in the past. She's also the assistant band director. She's a Carolina loyalist, but also refers to Flynn.","['Brand Perception', 'Customer Experience']","['Carolina', 'Flinn Scientific']",00:06
-dawn.parker@rcsd.ms,"I was audited once already for my EEF money. Just the P is the luck of the draw. And it was really easy audit wise because I had purchased previously everything, most everything through teacher pay teacher.","dawn.parker (06:46):
-
-Well, I'm going to be real honest. I was audited once already for my EEF money. Just the P is the luck of the draw. And it was really easy audit wise because I had purchased previously everything, most everything through teacher pay teacher.","['Customer Service', 'Purchasing Experience']",['Teachers Pay Teachers'],06:46
-dawn.parker@rcsd.ms,"I'm a big literature teacher, I guess it's come from teaching elementary, and my school is admission right now is involving literature in just about everything.","dawn.parker (09:18):
-
-And so I knew they had a lot of literature based things out there, and so I went ahead and just dove into environmental science and they'll pop up everything and just sort through and
-find the things kind age appropriate and that had literature basis and that kind of thing.","['Product Quality', 'Digital Resources']",['Teachers Pay Teachers'],09:18
-dawn.parker@rcsd.ms,Carolina Biology. A lot of the lab type stuff.,"Daylene Long (11:16):
-
-Carolina Biology.
-
-A
-
-dawn.parker (11:20):
-
-Lot of the lab type stuff.","['Product Quality', 'Purchasing Patterns']",['Carolina'],11:16
-dawn.parker@rcsd.ms,"Flin I've used when I taught chemistry and physical science, I used Flynn a lot.","dawn.parker (12:28):
-
-In the past, fries I've used, and I'm trying to think. Flin I've used when I taught chemistry and physical science, I used Flynn a lot.","['Product Quality', 'Purchasing Patterns']",['Flinn Scientific'],12:28
-dawn.parker@rcsd.ms,I've never really had a bad experience. Not through a company per se.,"Daylene Long (12:49):
-
-Okay. That is helpful. Can you think of with any of the companies, you mentioned a time where you had a really great experience or conversely when you had an experience that was disappointing?
-
-dawn.parker (13:07):
-
-No, I've never really had a bad experience. Not through a company per se.",['Customer Experience'],[],13:07
-dawn.parker@rcsd.ms,"I've wishlist some things and I received some things, and I don't know whether it was a company issue or if it was a central office issue or if I just got something secondhand or what, but they shipped me, I had a huge terrarium that I was going to use. It was like half aquarium, half terrarium. You could use the whole myo system there, and they had glued in the inset incorrectly.","Daylene Long (13:07):
-
-No, I've never really had a bad experience. Not through a company per se. I've wishlist some things and I received some things, and I don't know whether it was a company issue or if it was a central office issue or if I just got something secondhand or what, but they shipped me, I had a huge terrarium that I was going to use. It was like half aquarium, half terrarium. You could use the whole myo system there, and they had glued in the inset incorrectly.","['Product Quality', 'Customer Experience']",[],13:07
-dawn.parker@rcsd.ms,"I don't personally use it. I just don't usually buy that much from Amazon, so I don't use it.","Daylene Long (23:40):
-
-But that's separate from your disc or your uploads. Okay. Lemme see. I'm just going to flip through my notes. Does your school have a contract with Amazon at all?
-
-dawn.parker (23:57):
-
-Yes,
-
-Daylene Long (23:58):
-
-They do. Okay. So how does that work if you need something from Amazon?
-
-There
-dawn.parker (24:06):
-
-Is, I don't personally use it. I just don't usually buy that much from Amazon, so I don't use it.","['Brand Perception', 'Buying Habits']",['Amazon'],23:57
-dawn.parker@rcsd.ms,"Yes, we have gizmos.","Daylene Long (25:07):
-
-You have gizmos? Okay.
-
-dawn.parker (25:08):
-
-Yes. Lab wise, I think that's probably going to be the biggest lab wise we have is
-
-Daylene Long (25:15):
-
-Gizmos that
-
-dawn.parker (25:15):
-
-We use",['Digital Resources'],['Gizmos'],25:08
-dawn.parker@rcsd.ms,"I'm on Facebook too, but you'll mostly get a lot of pictures of my dog. So that's the way that goes. But feel free to connect if there's anything in the future you need and we will stay in touch with you.","Daylene Long (41:30):
-
-You should know too, you'll have a choice of a Visa gift card or a Target gift card, or I think I've put a couple of other options in there for you guys as well.
-
-dawn.parker (41:40):
-
-Awesome.
-
-Daylene Long (41:41):
-
-All right. Thanks so much.
-
-Kimberly Herder (41:43):
-
-Thank you.
-
-dawn.parker (41:46):
-
-Bye.
-
-Daylene Long (41:50):
-
-Kim, do you want to stay on for a minute? I'm going to stop our recording.",['Customer Experience'],[],41:30
+,speaker,theme,context,sentiment_score,brand,identified_purchases,start_time,end_time,email,last_name,first_name
+0,Kimberly Herder,Customer Experience,"Dawn Parker is a science teacher with diverse teaching experience, currently teaching multiple science courses and is an assistant band director.",0.3,,[],00:06,00:46,dawn.parker@rcsd.ms,Parker,Dawn
+1,Kimberly Herder,Generational Insights,Dawn Parker belongs to the generation born between 1965 to 1980.,0.1,,[],00:53,00:59,dawn.parker@rcsd.ms,Parker,Dawn
+2,dawn.parker,Brand Perception,"Dawn Parker has previously taught a variety of science classes, indicating she may be familiar with a range of educational resources and brands.",0.2,,[],02:08,03:26,dawn.parker@rcsd.ms,Parker,Dawn
+3,dawn.parker,Purchasing Experience,"At the beginning of the school year, Dawn Parker knew she needed to order materials for courses she hasn't taught in a while.",0.2,,[],05:04,05:17,dawn.parker@rcsd.ms,Parker,Dawn
+4,dawn.parker,Purchasing Patterns,Dawn Parker needed materials for AP Environmental Science and Physical Science due to teaching them after a gap of several years.,0.2,,[],05:26,06:08,dawn.parker@rcsd.ms,Parker,Dawn
+5,dawn.parker,Buying Habits,Dawn Parker prefers to purchase from Teacher Pay Teacher because it's easy to provide an audit trail and the materials fit well with digital platforms like Canvas.,0.4,,[],06:46,07:43,dawn.parker@rcsd.ms,Parker,Dawn
+6,dawn.parker,Educational Policies,"Dawn Parker has been audited by the state for her use of EEF money, which has influenced her purchasing habits to prefer easily auditable sources.",0.1,,[],07:50,08:15,dawn.parker@rcsd.ms,Parker,Dawn
+7,dawn.parker,Budget and Timing,Dawn Parker's budget for educational materials ranges from $300 to $600 annually.,0.2,,[],08:15,08:33,dawn.parker@rcsd.ms,Parker,Dawn
+8,dawn.parker,Digital Resources,"dawn.parker discussed using Teacher Pay Teachers for environmental science resources, focusing on literature-based materials.",0.5,,[],08:56,09:28,dawn.parker@rcsd.ms,Parker,Dawn
+9,dawn.parker,Budget and Timing,dawn.parker explains the difficulty in ordering lab-based stuff due to budget timing with EEF money arriving in September.,-0.2,,[],09:56,10:27,dawn.parker@rcsd.ms,Parker,Dawn
+10,dawn.parker,Purchasing Experience,dawn.parker likes the audit track feature on Teacher Pay Teachers for budget documentation.,0.5,,[],10:29,11:01,dawn.parker@rcsd.ms,Parker,Dawn
+11,dawn.parker,Carolina Purchases,dawn.parker prefers to buy lab kits from Carolina Biological for various subjects including AP chemistry and forensics.,0.6,,[],11:16,11:36,dawn.parker@rcsd.ms,Parker,Dawn
+12,dawn.parker,Digital Resources,dawn.parker appreciates the digital downloads provided by Carolina Biological which come before the physical lab materials.,0.7,,[],11:56,12:18,dawn.parker@rcsd.ms,Parker,Dawn
+13,dawn.parker,Flinn Purchases,dawn.parker has used Flinn Scientific for physical science and chemistry materials in the past.,0.6,,[],12:28,12:45,dawn.parker@rcsd.ms,Parker,Dawn
+14,dawn.parker,Customer Experience,"dawn.parker has never had a bad experience with companies, but mentions a secondhand terrarium that was not in proper condition.",-0.3,,[],13:07,14:11,dawn.parker@rcsd.ms,Parker,Dawn
+15,dawn.parker,Educational Policies,dawn.parker explains how wishlist items are processed through the science curriculum person at the central office.,0.3,,[],14:19,15:01,dawn.parker@rcsd.ms,Parker,Dawn
+16,dawn.parker,Budget and Timing,dawn.parker discusses the budget range and the process for allocating funds to teachers.,0.0,,[],15:53,16:05,dawn.parker@rcsd.ms,Parker,Dawn
+17,dawn.parker,Purchasing Experience,"They keep a well-stocked lab, so there's no need to worry about getting things in the middle of the year.",0.5,,[],16:16,16:49,dawn.parker@rcsd.ms,Parker,Dawn
+18,dawn.parker,Buying Habits,Gets a lot of new ideas from attending conferences and interacting with other teachers.,0.4,,[],17:25,17:34,dawn.parker@rcsd.ms,Parker,Dawn
+19,dawn.parker,Digital Resources,"Uses Teacher Pay Teacher for browsing educational resources, appreciates the ability to narrow searches based on standards.",0.6,,[],17:34,18:35,dawn.parker@rcsd.ms,Parker,Dawn
+20,dawn.parker,Customer Service,"Values customer service, particularly appreciating TPT's recordkeeping and customer support.",0.7,,[],19:53,22:02,dawn.parker@rcsd.ms,Parker,Dawn
+21,dawn.parker,Vendor Comparison,"Mentions that Flinn provides a disc with safety information for chemicals, and that Carolina includes necessary warnings with their lab kits.",0.3,,[],22:28,23:35,dawn.parker@rcsd.ms,Parker,Dawn
+22,dawn.parker,Purchasing Experience,Dawn explains that there is a special purchasing procedure for Amazon products with special group pricing established by the district.,0.2,Amazon,[],24:06,24:43,dawn.parker@rcsd.ms,Parker,Dawn
+23,dawn.parker,Digital Resources,"Dawn describes using gizmos for digital labs, highlighting their interactivity and usefulness in teaching concepts that would take weeks in a traditional setting.",0.5,,[],25:05,26:13,dawn.parker@rcsd.ms,Parker,Dawn
+24,dawn.parker,Customer Experience,Dawn expresses a desire for bundled educational resources that are aligned with standards and offer a variety of materials for teaching specific topics.,0.3,,[],26:55,31:05,dawn.parker@rcsd.ms,Parker,Dawn
+25,dawn.parker,Digital Resources,Dawn discusses the use of videos to prepare students for hands-on experiments.,0.3,,[],32:09,32:27,dawn.parker@rcsd.ms,Parker,Dawn
+26,dawn.parker,Digital Resources,"Dawn Parker uses YouTube as a resource to show students certain labs, especially when they do not have time or supplies to conduct them in class.",0.2,,[],32:27,33:09,dawn.parker@rcsd.ms,Parker,Dawn
+27,dawn.parker,Brand Perception,Dawn Parker has not looked into whether vendors like Carolina provide digital resources for labs but has found YouTube to be a good resource.,0.1,,[],33:09,33:35,dawn.parker@rcsd.ms,Parker,Dawn
+28,dawn.parker,Educational Policies,Dawn Parker discusses the challenge of providing notes to students of varying writing abilities and how she customizes note-taking for her classes.,0.0,,[],33:51,35:11,dawn.parker@rcsd.ms,Parker,Dawn
+29,dawn.parker,Customer Experience,"Dawn Parker recalls participating in a bootcamp to help students review for the state assessment in biology, which she found effective.",0.3,,[],35:22,36:23,dawn.parker@rcsd.ms,Parker,Dawn
+30,dawn.parker,Brand Perception,"Dawn Parker expresses loyalty to Teacher Pay Teacher and Flinn Scientific, highlighting the reliability and timely delivery from Flinn.",0.4,,[],36:48,37:10,dawn.parker@rcsd.ms,Parker,Dawn
+31,dawn.parker,Vendor Comparison,Dawn Parker compares Flinn Scientific favorably to other vendors due to their reliability and price.,0.3,,[],36:55,37:24,dawn.parker@rcsd.ms,Parker,Dawn
+32,dawn.parker,Customer Experience,"Dawn Parker discusses her approach to accommodating a diverse range of student abilities in her classroom, emphasizing the use of group work and partner work.",0.2,,[],37:51,39:27,dawn.parker@rcsd.ms,Parker,Dawn
+33,Daylene Long,Customer Experience,Daylene Long offers to be a point of contact for feedback or ideas to vendors and invites Dawn Parker to connect on social platforms.,0.7,,[],40:37,41:15,dawn.parker@rcsd.ms,Parker,Dawn
+34,Daylene Long,Customer Experience,Daylene Long mentions that gift cards will be sent to interview participants and provides options for the type of gift card.,0.8,,[],41:15,41:41,dawn.parker@rcsd.ms,Parker,Dawn

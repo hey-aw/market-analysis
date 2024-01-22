@@ -32,7 +32,9 @@ Generation: Baby Boomer (1946-1964)
 - There is an opportunity for vendors to create reusable, cost-effective teaching kits for activities like mitosis using cookies, which could replace the need for consumable items.
 - Vendors could benefit from aligning their resource distribution with the school's curriculum sequence to be more timely and relevant for teachers.
 
-### Video, Transcript & Survey Responses## Elliott Karetny, Timber Creek High School, Aerial, New Jersey
+### Video, Transcript & Survey Responses
+
+## Elliott Karetny, Timber Creek High School, Aerial, New Jersey
 
 Category: Carolina loyalist  
 Generation: Generation X (born 1965 to 1980)
@@ -66,7 +68,9 @@ Generation: Generation X (born 1965 to 1980)
 - There is a need for more relevant and hands-on environmental science materials that can be used flexibly in the classroom.
 - There is an opportunity to develop products that help teachers address the challenges of student motivation and engagement in a post-pandemic educational landscape.
 
-### Video, Transcript & Survey Responses## Gary Buchsen, Port Allegany School District, Port Allegany, PA
+### Video, Transcript & Survey Responses
+
+## Gary Buchsen, Port Allegany School District, Port Allegany, PA
 
 Category: Other  
 Generation: Generation X (1965-1980)
@@ -101,7 +105,49 @@ Generation: Generation X (1965-1980)
 - Professional development and training offered by vendors could be highly valuable, especially for non-traditional teachers or those on emergency certificates.
 - There is potential for vendors to present their products at superintendent advisory council meetings or state association conferences to reach multiple districts at once.
 
-### Video, Transcript & Survey Responses## Joe Myers, Norfolk Senior High School, Norfolk, NE
+### Video, Transcript & Survey Responses
+
+## Jennifer Hofeld, Harrah High School, Harrah, OK
+
+Category: Other  
+Generation: Not specified
+
+---
+
+### Quick Facts
+- **Position:** Biology Teacher
+- **Teaching Areas:** Biology, previously taught English, French, and Math
+- **Background:** Undergraduate degree in English Literature, Master's degree in Biology, nearly completed PhD in Science Education
+- **School Type:** Public High School
+- **Purchasing Role:** Responsible for sourcing and purchasing supplies for biology classes
+- **Unique Fact:** Fourth generation teaching at Harrah High School, involved in STEM projects, and has attended PhD classes while driving
+
+### Memorable Quote
+- "I look at what I need and just check two or three of the supply companies in Amazon and I choose the best price with shipping." [09:56] (Discussing her process for purchasing supplies)
+- "I mean, I look at Amazon or Carolina, whatever, and I try and compare prices." [09:05] (On comparing prices for supplies)
+- "Biology needs to be taught in context." [23:30] (On her teaching philosophy and approach)
+
+### Buyer’s Journey
+- Identification of Needs: Uses the Illinois Storyline working group's NGSS-based curriculum, which comes with a supply list.
+- Research and Consideration: Compares prices between Amazon and scientific supply companies like Carolina and Fisher.
+- Decision-Making: Chooses based on best price with shipping, sometimes prioritizes Amazon for faster delivery.
+- Vendor Selection: Prefers Carolina due to familiarity but often ends up purchasing from Amazon.
+- Post-Purchase Evaluation: Values customer service, as seen when Amazon quickly resolved an issue with a damaged shipment.
+
+### Insights
+- Jennifer values hands-on, inquiry-based learning and prefers to teach biology in context rather than through memorization.
+- She finds new teaching materials and ideas by attending conferences like NSTA and NABT, particularly drawn to booths with interactive labs and freebies.
+- Funding is limited to a small annual grant and sometimes contributions from parents.
+
+### Opportunities
+- There is an opportunity for vendors to provide context-based lesson plans and materials that align with Jennifer's teaching approach.
+- Vendors could benefit from offering professional development opportunities, especially interactive ones, that are accessible to teachers in less urban areas.
+- Kits are seen as valuable, especially for new teachers or those teaching outside their content area, but they need to be cost-effective and relevant to the curriculum being taught.
+
+### Video, Transcript & Survey Responses
+- [to be added later]
+
+## Joe Myers, Norfolk Senior High School, Norfolk, NE
 
 Category: Flinn loyalist  
 Generation: Generation X (1965-1980)
@@ -135,7 +181,47 @@ Generation: Generation X (1965-1980)
 - There is an opportunity for vendors to integrate technology in a way that competes with or utilizes students' smartphones for educational purposes.
 - There is a need for entry-level biology courses to accommodate the wide range of student abilities and preparedness.
 
-### Video, Transcript & Survey Responses## Nicole Evans, Northeast High School, Philadelphia, PA
+### Video, Transcript & Survey Responses
+
+## Mark Niebojeski, Perth Amboy High School, Perth Amboy, NJ
+
+Category: Carolina loyalist  
+Generation: Veteran (30 years of teaching)
+
+### Quick Facts
+- **Position:** Science Teacher
+- **Teaching Areas:** Biology, Environmental Science, Emergency Medical Responder Instruction
+- **Background:** 30 years of teaching experience in the same district, with a variety of science subjects taught at different levels
+- **School Type:** Public High School
+- **Purchasing Role:** Teacher, provides wishlist to instructional leader
+- **Unique Fact:** Has taught a student who returned as a chemistry teacher
+
+### Memorable Quote
+- "I still love what I do. I wouldn't be doing it for 30 years if I didn't." [03:27] (Expressing passion for teaching)
+- "We just found kits that meet the standard we're trying to teach and have everything self-contained rather than have to buy 25 different things." [08:55] (On choosing lab kits)
+- "I've seen a lot of young people come into the profession their first year teaching... they get little to no support from administrators and leave." [36:01] (On challenges faced by new teachers)
+
+### Buyer’s Journey
+- Identifies needs based on curriculum and standards
+- Researches and considers lab kits that are self-contained and meet specific standards
+- Decisions are made collectively with other teachers, then passed to an instructional leader
+- Vendor selection is limited to an approved vendor list provided by the district
+- Post-purchase evaluation includes assessing the quality of received materials and their effectiveness in the classroom
+
+### Insights
+- Prefers lab kits that are comprehensive and easy to use, with a preference for Carolina Biological or Ward Scientific
+- Frustration with the lack of support for new teachers and the turnover it causes
+- Desires more engagement and understanding from administrators regarding classroom needs
+
+### Opportunities
+- Potential for vendors to create differentiated lab kits to cater to varying student reading levels and socioeconomic backgrounds
+- Opportunity for vendors to provide better packaging and labeling, including safety information and visuals on the box
+- Vendors could benefit from direct feedback and requests from experienced teachers like Mark
+
+### Video, Transcript & Survey Responses
+- [to be added later]
+
+## Nicole Evans, Northeast High School, Philadelphia, PA
 
 Category: Carolina + Flinn  
 Generation: Generation X (born between 1965 and 1980)
@@ -170,7 +256,9 @@ Generation: Generation X (born between 1965 and 1980)
 - There is a need for professional development from vendors on how to use their products effectively in the classroom.
 - Vendors could develop more interactive and hands-on tools that utilize technology, such as smartphones, to engage students.
 
-### Video, Transcript & Survey Responses## Patrick McKernan, Troy USD, Troy, KS
+### Video, Transcript & Survey Responses
+
+## Patrick McKernan, Troy USD, Troy, KS
 
 Category: Other  
 Generation: Baby Boomers (1946-1964)
@@ -204,7 +292,87 @@ Generation: Baby Boomers (1946-1964)
 - There is an opportunity for vendors to offer ongoing professional development support post-purchase.
 - Vendors could benefit from providing clear and accessible information on how their materials align with state standards and EdReports.
 
-### Video, Transcript & Survey Responses## Robert Lehman, Bowie High School, Bowie, MD
+### Video, Transcript & Survey Responses
+
+## Patrick McGee, Capital High School, Madison, WI
+
+Category: Carolina + Flinn  
+Generation: Generation X (1965-1980)
+
+### Quick Facts
+- **Position:** Science Teacher, Department Chair
+- **Teaching Areas:** Life Science, Biology, Chemistry, Physical Science
+- **Background:** 20 years of teaching experience, with some time spent in the private sector. Master's degree from Marquette University.
+- **School Type:** Option school, CTE-focused
+- **Purchasing Role:** Department Chair, responsible for purchasing decisions
+- **Unique Fact:** Has experience opening a rebranded school and is the only science teacher at Capital High School.
+
+### Memorable Quote
+- "I think if I had to pick a vendor to be loyal to it probably would be Carolina Biological." [24:58] (Expressing vendor preference)
+- "I just think that as much as new teachers can be helped with trying to push students in through inquiry and doing that creative thinking with whatever vendor materials are given to them, the better off they'll be as teachers and the students will be better off with their thinking too." [50:01] (On supporting new teachers)
+- "I think just again, having, if there's, they're going to provide worksheets and stuff, have it in a format that's more usable, just the PDF to run off on the copier, that's not 21st century anymore." [49:38] (On the need for digital resources)
+
+### Buyer’s Journey
+- **Identification of Needs:** Patrick identifies the need for hands-on and digital resources that support inquiry-based learning and literacy development.
+- **Research and Consideration:** He compares prices and quality across vendors like Carolina Biological, Flinn, and Thermo Fisher, as well as Amazon for certain items.
+- **Decision-Making:** Decisions are based on cost-effectiveness, reliability, and the educational value of the resources.
+- **Vendor Selection:** Prefers Carolina Biological for reliability and cost, but also purchases from Flinn and Amazon.
+- **Post-Purchase Evaluation:** He appreciates resources that are complete and ready to use, especially for new teachers, and values digital resources that can be easily integrated into Google Classroom.
+
+### Insights
+- Patrick values vendors that provide cost-effective, reliable resources and materials that support cross-curricular learning objectives.
+- He emphasizes the importance of vendors offering digital resources that are compatible with modern teaching tools like Google Classroom.
+- There is a need for lab kits that are safer and easier to use, especially for demonstrations like the flame test.
+
+### Opportunities
+- There is an opportunity for vendors to create more comprehensive lab kits that reduce prep time and increase safety.
+- Vendors could improve their offerings by including standards on the packaging and providing editable digital resources.
+- There is a potential market for training videos that help teachers prepare for labs.
+
+### Video, Transcript & Survey Responses
+- [to be added later]
+
+## Rebecca Murray, Eastern Camden County Regional High School, Voorhees, New Jersey
+
+Category: Carolina + Flinn  
+Generation: Millennial (1981-1996)
+
+---
+
+### Quick Facts
+- **Position:** Biology Teacher
+- **Teaching Areas:** Biology, Environmental Science, Anatomy and Physiology, AP Seminar
+- **Background:** Bachelor's of Arts in Education K-12, Bachelor's of Science in Biology, Master's of Science in Curriculum and Instruction from Western Governor's University
+- **School Type:** Public High School
+- **Purchasing Role:** Influencer/Decider
+- **Unique Fact:** Club advisor and founder for Intro to Medicine Club
+
+### Memorable Quote
+- "I've bought a handful [of kits], some of which I really like, some of which I find that a lot of the time they're never good right out of the box I have to edit it, I have to make my own sheets that go along with it." [22:59] (Discussing the use of educational kits)
+- "I have a student teacher this year and I was joking with her that this is my seventh year trying to teach myosis and crossing over and I still have not found a lab that I like." [35:27] (On the challenges of finding effective teaching labs)
+- "They definitely are dependent. They're dependent on their technology. They're super addicted to their phones. They have trouble letting go and detaching." [48:53] (Regarding students' reliance on technology)
+
+### Buyer’s Journey
+- Identifies needs based on curriculum and teaching experience.
+- Researches and considers products that fit curriculum standards and classroom dynamics.
+- Decision-making influenced by product quality, ease of use, and adaptability to different teaching levels.
+- Vendor selection based on past experiences, quality of materials, and cost-effectiveness.
+- Post-purchase evaluation includes assessing the effectiveness of the materials and customer service experience.
+
+### Insights
+- Prefers educational kits that are adaptable and can be easily modified for different teaching levels.
+- Experiences challenges with students' basic skills, such as using rulers and cutting, possibly due to increased reliance on technology.
+- Observes a trend of decreased intrinsic motivation and increased dependency on technology among students.
+
+### Opportunities
+- There is a need for differentiated lab materials and activities that cater to various student levels.
+- Educational companies could benefit from providing a variety of adaptable worksheets and instructions with their kits.
+- Opportunities exist for companies to create more hands-on, engaging labs that are simple enough for students to understand yet challenging enough to keep them engaged.
+
+### Video, Transcript & Survey Responses
+- [to be added later]
+
+## Robert Lehman, Bowie High School, Bowie, MD
 
 Category: Other  
 Generation: Baby Boomers (1946-1964)
@@ -239,7 +407,9 @@ Generation: Baby Boomers (1946-1964)
 - There is a desire for more streamlined and efficient purchasing processes, potentially through vendors like Amazon, if they were authorized.
 - There is an opportunity to develop resources that cater to ESL/MLL students within the context of environmental science.
 
-### Video, Transcript & Survey Responses## Robin O'Hara, Oregon Episcopal School, Portland, OR
+### Video, Transcript & Survey Responses
+
+## Robin O'Hara, Oregon Episcopal School, Portland, OR
 
 Category: Other  
 Generation: Generation X (1965-1980)
@@ -274,7 +444,85 @@ Generation: Generation X (1965-1980)
 - Vendors could explore ways to reduce plastic waste in their products and packaging, which is a concern for the school.
 - There is potential for collaboration with the school on long-term citizen science projects that align with their curriculum.
 
-### Video, Transcript & Survey Responses## Tanya Clark, Clayton School District, Clayton, New Jersey
+### Video, Transcript & Survey Responses
+
+## Sean Taylor, Sierra High School, San Bernardino, CA
+
+Category: Other  
+Generation: Millennial (1981-1996)
+
+### Quick Facts
+- **Position:** Biology Teacher and Department Chair
+- **Teaching Areas:** Biology, Coding, Forensic Science
+- **Background:** Teaching since 2009, focus on skill development, claim evidence, and reasoning
+- **School Type:** Continuation High School
+- **Purchasing Role:** Department Chair with autonomy in purchasing decisions
+- **Unique Fact:** School has a focus on mental and emotional health, and building relationships is a priority.
+
+### Memorable Quote
+- "Our kids are typically with us for six weeks to try to catch up on credits as opposed to the normal 18." [01:48] (Discussing the unique challenges of teaching at a continuation high school)
+- "I currently teach biology mostly, but I've been doing a little bit of coding, a little bit of forensic science from here and there..." [01:48] (Describing his teaching areas)
+- "I want every kid to be like, yeah, yeah," [36:09] (Expressing his desire to spark curiosity and engagement in his students)
+
+### Buyer’s Journey
+- **Identification of Needs:** Recognizes the need for hands-on materials and real-world applications to engage students.
+- **Research and Consideration:** Attends conferences like NSTA, browses product brochures, and considers ease of ordering and relevance to curriculum.
+- **Decision-Making:** Chooses materials based on the potential to teach skills and engage students, such as mini PCR machines.
+- **Vendor Selection:** Has ordered from Flinn and Carolina in the past but is currently open to any vendor that meets his needs.
+- **Post-Purchase Evaluation:** Evaluates the success of materials based on student engagement and the ability to teach critical thinking and real-world applications.
+
+### Insights
+- Sean Taylor seeks materials that can be completed within a short timeframe (one to two class periods) and that are flexible enough to cater to a wide range of student abilities and backgrounds.
+- He values hands-on materials that can help build students' confidence and self-esteem, as well as their ability to think critically and understand the world around them.
+
+### Opportunities
+- There is a need for life science materials that align closely with NGSS standards and the Living Earth model, which integrates various scientific disciplines.
+- Vendors could improve by organizing their offerings according to NGSS standards and essential topics, making it easier for educators to find relevant materials.
+
+### Video, Transcript & Survey Responses
+- [to be added later]
+
+## Suzanne Matrisciano, [Institution Name], [City, State]
+
+Category: Flinn loyalist  
+Generation: [Generation name and year range not provided]
+
+---
+
+### Quick Facts
+- **Position:** Biology Teacher
+- **Teaching Areas:** Biology
+- **Background:** 27 years in education, experience in private and public schools in Mississippi and Missouri
+- **School Type:** Public School
+- **Purchasing Role:** Individual purchasing authority with EEF card, contributes to wishlist for school-wide purchases
+- **Unique Fact:** Has been teaching in the same room her parents attended school in
+
+### Memorable Quote
+- "There's a lot to be said for taking care of your teachers and then your teachers using you for other things." [15:35] (Regarding customer loyalty to Flinn Scientific due to excellent customer service)
+- "I truly wish that I could have lab kits where the first time I bought it, it pretty much had everything and the second time I could just purchase the consumables without having to go and look for each one of them individually." [40:46] (On the desire for more convenient lab kit purchasing options)
+- "We are going to go more digital... I still need that hard copy textbook in the classroom... But yes, I want that online access..." [46:42] (On the need for both physical and digital teaching resources)
+
+### Buyer’s Journey
+- Identification of Needs: Based on state curriculum guide, personal teaching experience, and student needs
+- Research and Consideration: Prefers Flinn Scientific due to past positive experiences, also considers Carolina for certain items
+- Decision-Making: Makes individual purchases with EEF card, contributes to school wishlist for larger or shared resources
+- Vendor Selection: Loyal to Flinn Scientific but open to other vendors if necessary; appreciates vendors who provide extra value and customer service
+- Post-Purchase Evaluation: Values customer service, ease of reordering, and educational support for new teachers
+
+### Insights
+- Suzanne values customer service highly and has remained loyal to Flinn Scientific due to a positive experience that occurred over a decade ago.
+- She prefers hands-on labs but has had to adapt to more paper labs due to time constraints and budget limitations.
+- There is a desire for more digital resources, especially online labs, since the loss of Adobe Flash has limited her options.
+
+### Opportunities
+- There is a need for more convenient lab kit purchasing options, specifically the ability to easily reorder consumables.
+- Vendors could provide more support to new teachers who may not be aware of all their purchasing options or educational resources.
+- Development of a secure online platform for tests and labs that prevents students from accessing other sites during use could be beneficial.
+
+### Video, Transcript & Survey Responses
+- [to be added later]
+
+## Tanya Clark, Clayton School District, Clayton, New Jersey
 
 Category: Other  
 Generation: Baby Boomers (1946-1964)

@@ -3,7 +3,7 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the README at:
 // https://github.com/microsoft/vscode-dev-containers/tree/v0.209.6/containers/python-3
 {
-  "image": "mcr.microsoft.com/devcontainers/python:0-3.11-bullseye",
+  "image": "mcr.microsoft.com/devcontainers/python:3.11",
   "customizations": {
     "codespaces": {
       "openFiles": [
@@ -16,8 +16,9 @@
       "extensions": [
         "ms-python.python",
         "GitHub.copilot",
-        "GitHub.copilot-chat",
-          "ms-python.vscode-pylance"
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "mgesbert.python-path"
       ]
     }
   },
@@ -39,6 +40,7 @@
   },
   "remoteUser": "vscode",
   "features": {
-    "ghcr.io/devcontainers-contrib/features/poetry:2": {}
+    "ghcr.io/devcontainers-contrib/features/poetry:2": {},
+    "ghcr.io/swift-server-community/swift-devcontainer-features/sqlite:1": {}
   }
 }

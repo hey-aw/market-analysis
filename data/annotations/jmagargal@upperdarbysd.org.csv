@@ -1,44 +1,32 @@
-email,text_segment,context,theme,brand,time_stamp
-jmagargal@upperdarbysd.org,"I am currently teaching in small Catholic school. I am on my 29th year. No. Oh my gosh. This is my 31st year of teaching. I feel very old right now that I had to think about that, but I was in public school for 27 years. I started my teaching career in a Catholic school for three years, so just helping me with my math if this is so, yeah, really it's like 30 and a half years. That's crazy. Time flies when you're having fun.","Janet Magargal (05:33):
-
-Yes. I'm currently teaching in small Catholic school. I am on my 29th year. No. Oh my gosh. This is my 31st year of teaching.","['Educational Policies', 'Customer Experience']",[],05:33
-jmagargal@upperdarbysd.org,"I have chosen BioRad. I have chosen LG beads, I've used Amazon. I'm trying to think what else. Oh, pivot Interactives. We ordered as, and then of course I have to go to just the local Whole Foods Gentilly Acme Produce Junction for consumables I've used.","Janet Magargal (14:51):
-
-Let's see here. Oh, pivot Interactives. We ordered as, and then of course I have to go to just the local Whole Foods Gentilly Acme Produce Junction for consumables I've used.","['Purchasing Patterns', 'Vendor Comparison']","['BioRad', 'Amazon', 'Pivot Interactives']",14:51
-jmagargal@upperdarbysd.org,"I bought ampicillin and e coli and I was very pleased with BioRad. They were punctual, they were on time. They communicated you could follow the tracking. That's very helpful because where our supplies come, they come to a different location and the person at the receptionist desk who has to take in that information, I mean the eco, I had to be refrigerated. The ampicillin had to be refrigerated, so it was nice to track it.","Janet Magargal (32:12):
-
-I mean, I feel like all of them have been pretty positive. I bought, oh, I did buy, who is it? E coli. I bought e coli and ampicillin. Was that BioRad? I mean, everything has come very quickly. I mean, the algae beads, there's excellent communication. Yes. That was BioRad. I bought ampicillin and e coli and I was very pleased with BioRad.","['Product Quality', 'Customer Service', 'Customer Experience']",['BioRad'],32:12
-jmagargal@upperdarbysd.org,"I bought them just as separate materials because my whole philosophy is I don't like a lot of things to lay around in the lab. And there were plenty of Petri dishes. It's a Luigi broth or Oh, geez, I should really be able to talk more intelligently. Sorry. The learning curve with City of Broth, anyway, there was a broth already in the lab, so instead of buying new, I just bought replacement.","Janet Magargal (33:00):
-
-Did they provide instructions for making the broth or was that something you knew how to do from previous or,
-
-Janet Magargal (33:10):
-
-I knew, yeah, that was something I knew how to do. Okay.",['Purchasing Experience'],['BioRad'],33:00
-jmagargal@upperdarbysd.org,"I like it one-stop shopping. So I liked it when I can open up a box and it was like, yeah, it was Christmas, because some of the boxes did have directions how to use the kit. It had the key already there. It was all together.","Janet Magargal (45:34):
-
-That sounds good. I want to ask Kimberly to join us again. We've just got five minutes left, and I want to see if she's got any follow-up questions for us.
-
-Janet Magargal (45:43):
-
-Okay.
-
-Kimberly Herder (45:45):
-
-Hi, this has been fantastic. I'm interested or would like to know what you could say in a couple of minutes about the school or your experience. I mean, you had a few years in a different school. What would you say, knowing the questions that Daylene asked, how in a nutshell would you answer that for your former school
-
-Janet Magargal (46:18):
-
-In terms of,
-
-Daylene Long (46:19):
-
-It might be too broad, Kim, you might want to narrow that down, Kim.
-
-Kimberly Herder (46:27):
-
-Well, in ordering supplies or kits, or thinking about the student population there, what would you answer differently or how would you answer differently? Some of the questions that we've asked when you looked at ordering or funding or how you made those decisions, what you were going to use
-
-Janet Magargal (46:49):
-
-In the previous school, it would have to be bilingual. I taught 90% of students that could not speak English, so I would definitely need content differentiated. Even at the high school level, you would need things not only translated into a different language, but a huge need for scaffolded material, differentiated, adapted, just different forms of reading levels. So that would definitely be a huge difference. I mean, even in the current school, it would be nice to have options for differentiation. Some students do need things scaffolded a little differently, so that would be a huge time saver. I mean, I would be surprised if you would talk to an educator that doesn't have a diverse group of students, no matter where you are. I mean, they may physically look more similar in some settings than others, but there's always the academic need for structuring things differently, providing maybe a graphic organizer, sentence starters, and anything, I guess along those lines to aid in support. I mean, it's the whole concept of equity. What one student might need might look very different for another student to still share and have same concept.","['Digital Resources', 'Environmental Sustainability', 'Educational Policies']",[],46:49
+,speaker,theme,context,sentiment_score,brand,identified_purchases,start_time,end_time,email,first_name,last_name
+0,Kimberly Herder,Educational Policies,Kimberly is providing background information about Janet Magargal who is a science educator with 27 years of experience and an instructional supervisor at a large high school,0.1,,[],00:08,00:43,jmagargal@upperdarbysd.org,Janet,Magargal
+1,Janet Magargal,Brand Perception,Janet was surprised that the interview was recorded and she wasn't prepared to be on camera,-0.2,,[],03:00,03:20,jmagargal@upperdarbysd.org,Janet,Magargal
+2,Janet Magargal,Customer Experience,Janet had technical difficulties turning on the camera but resolved it,0.0,,[],03:33,04:24,jmagargal@upperdarbysd.org,Janet,Magargal
+3,Janet Magargal,Educational Policies,Janet is currently teaching in a small Catholic school and has over 30 years of teaching experience,0.1,,[],05:33,06:29,jmagargal@upperdarbysd.org,Janet,Magargal
+4,Janet Magargal,Purchasing Experience,Janet discusses the student-to-teacher ratios and lab group sizes at her school,0.3,,[],06:42,07:53,jmagargal@upperdarbysd.org,Janet,Magargal
+5,Janet Magargal,Purchasing Experience,Janet is in the process of learning what she needs to order for the science lab and curriculum requirements.,0.2,,[],11:57,12:33,jmagargal@upperdarbysd.org,Janet,Magargal
+6,Janet Magargal,Buying Habits,Janet uses a spreadsheet to document everything she needs to order.,0.1,,[],12:33,12:42,jmagargal@upperdarbysd.org,Janet,Magargal
+7,Janet Magargal,Purchasing Patterns,"Janet has purchased from BioRad, LG beads, Amazon, and local stores for consumables.",0.3,Amazon,"[{'product_name': 'Various supplies', 'vendor': 'BioRad', 'purchase_reason': ''}, {'product_name': 'Various supplies', 'vendor': 'LG beads', 'purchase_reason': ''}, {'product_name': 'Various supplies', 'vendor': 'Amazon', 'purchase_reason': ''}]",13:56,15:14,jmagargal@upperdarbysd.org,Janet,Magargal
+8,Janet Magargal,Vendor Comparison,Janet mentions using Carolina for some purchases.,0.2,Carolina,[],15:49,15:49,jmagargal@upperdarbysd.org,Janet,Magargal
+9,Janet Magargal,Educational Policies,Janet relies on the AP curriculum for the AP biology class and the Next Generation Science standards for the biology curriculum.,0.3,,[],17:17,17:49,jmagargal@upperdarbysd.org,Janet,Magargal
+10,Janet Magargal,Brand Perception,Janet had good memories of using materials from Carolina 20 years ago.,0.4,Carolina,[],19:02,19:02,jmagargal@upperdarbysd.org,Janet,Magargal
+11,Janet Magargal,Digital Resources,"The Algae Beads lab was a new experience for Janet, introduced during AP Bio training.",0.3,Algae Beads,[],19:02,20:08,jmagargal@upperdarbysd.org,Janet,Magargal
+12,Janet Magargal,Customer Experience,Janet appreciated the resources and lesson plans provided by the company that made the Algae Beads.,0.7,Algae Beads,[],20:08,21:43,jmagargal@upperdarbysd.org,Janet,Magargal
+13,Janet Magargal,Digital Resources,Janet was introduced to Pivot Interactive by her Science department chair for use with students.,0.4,Pivot Interactive,[],23:42,24:02,jmagargal@upperdarbysd.org,Janet,Magargal
+14,Janet Magargal,Carolina Purchases,Janet used kits from Carolina for a carbohydrate lab with iodine stains.,0.3,Carolina,"[{'product_name': 'Carbohydrate lab kits', 'vendor': 'Carolina', 'purchase_reason': ''}]",26:24,26:46,jmagargal@upperdarbysd.org,Janet,Magargal
+15,Janet Magargal,Digital Resources,Janet uses the National Biology Teacher's Facebook page for lab ideas and considers it an amazing resource.,0.7,,[],27:51,28:03,jmagargal@upperdarbysd.org,Janet,Magargal
+16,Janet Magargal,Purchasing Patterns,Janet orders materials like yeast and chemicals for labs from Amazon based on ideas from Facebook.,0.5,Amazon,[],28:03,28:43,jmagargal@upperdarbysd.org,Janet,Magargal
+17,Janet Magargal,Buying Habits,Janet decides where to buy supplies based on who has the best price.,0.6,,[],29:49,29:58,jmagargal@upperdarbysd.org,Janet,Magargal
+18,Janet Magargal,Customer Experience,"Janet praises BioRad for their punctuality and communication, especially the ability to track shipments.",1.0,BioRad,[],30:40,32:12,jmagargal@upperdarbysd.org,Janet,Magargal
+19,Janet Magargal,Purchasing Patterns,Janet buys separate materials for her labs instead of kits to avoid excess and uses what's already available in the lab.,0.5,,[],32:12,33:10,jmagargal@upperdarbysd.org,Janet,Magargal
+20,Janet Magargal,Customer Experience,"Janet notes that vendors usually include directions and contact information in shipments, and she appreciates the communication.",0.7,,[],33:38,34:09,jmagargal@upperdarbysd.org,Janet,Magargal
+21,Janet Magargal,Digital Resources,Janet uses videos from YouTube to prep for labs and might give students videos to watch in advance of a lab.,0.7,,[],34:28,36:18,jmagargal@upperdarbysd.org,Janet,Magargal
+22,Janet Magargal,Digital Resources,Learn Genetics and Howard Hughes Medical Center are favorite interactive channels for teaching.,0.8,,[],37:10,37:19,jmagargal@upperdarbysd.org,Janet,Magargal
+23,Janet Magargal,Brand Perception,Quality of science is a priority for a trustworthy vendor.,0.7,,[],38:15,38:59,jmagargal@upperdarbysd.org,Janet,Magargal
+24,Janet Magargal,Customer Experience,Appreciates vendors that provide coupons and discounts.,0.7,,[],38:59,39:00,jmagargal@upperdarbysd.org,Janet,Magargal
+25,Janet Magargal,Purchasing Experience,Wishes for an organized lab to better know what supplies are needed.,0.5,,[],39:56,41:01,jmagargal@upperdarbysd.org,Janet,Magargal
+26,Janet Magargal,Customer Service,Vendors with detailed directions and organized kits are helpful.,0.8,,[],42:19,43:24,jmagargal@upperdarbysd.org,Janet,Magargal
+27,Janet Magargal,Purchasing Experience,Finds it frustrating when student interactions or keys are not included with kits.,-0.6,,[],43:27,45:02,jmagargal@upperdarbysd.org,Janet,Magargal
+28,Janet Magargal,Customer Experience,Prefers kits that come with all necessary directions and keys included.,0.9,,[],45:16,45:34,jmagargal@upperdarbysd.org,Janet,Magargal
+29,Janet Magargal,Digital Resources,"Janet discusses the need for differentiated content, especially for bilingual students, and the importance of scaffolding and adaptation to various reading levels.",0.3,,[],46:49,48:33,jmagargal@upperdarbysd.org,Janet,Magargal
+30,Janet Magargal,Customer Experience,"Janet expresses gratitude for being heard and valued as an educator, and also for the support in her passion for science education.",0.8,,[],49:34,53:21,jmagargal@upperdarbysd.org,Janet,Magargal
