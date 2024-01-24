@@ -1,2 +1,4 @@
 .streamlit/secrets.toml
 .env
+trash/*
+data_pass1/*

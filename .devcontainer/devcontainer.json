@@ -18,7 +18,8 @@
         "GitHub.copilot",
         "ms-python.vscode-pylance",
         "ms-toolsai.jupyter",
-        "mgesbert.python-path"
+        "mgesbert.python-path",
+        "ms-python.black-formatter"
       ]
     }
   },
